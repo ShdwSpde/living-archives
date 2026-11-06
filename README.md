@@ -1,6 +1,6 @@
 # Living Archives
 
-Archives of one person's writing that you can ask questions in plain language. The answer quotes the writing and names the book and chapter. Before you see it, each quote is checked against the passage it came from.
+Archives of one person's writing that you can ask questions in plain language. The answer quotes the writing and names the book and chapter.
 
 ![Asking the Ida B. Wells Living Archive about lynching statistics](assets/ida-archive.gif)
 
@@ -14,7 +14,7 @@ There's also a [30-second demo video](https://radicalimagination.xyz/demos/livin
 ## How it works
 
 - A question searches only that archive's texts, and the model writes its answer from the passages it found.
-- A checker compares every quote in the answer with those passages and marks it verified or unverified. It allows for OCR errors in old scans and catches a changed word.
+- A checker compares the quotes in the answer with those passages and marks them verified or unverified. It allows for OCR errors in old scans and catches a changed word.
 - Chapter citations come from each book's own table of contents, so you can look them up.
 - If the archive has no word for a modern term, the answer says so.
 
