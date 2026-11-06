@@ -26,6 +26,8 @@ Retrieval over vector search (pgvector or Firestore, depending on the archive), 
 
 ## Demo, in captions
 
+**▶ [Watch the demo](https://radicalimagination.xyz/demos/living-archives.mp4)** (silent, captioned, under 30 seconds)
+
 1. "Ask Ida B. Wells a question."
 2. "The archive searches her own books, nothing else."
 3. "It answers in her words, with the book and chapter."
